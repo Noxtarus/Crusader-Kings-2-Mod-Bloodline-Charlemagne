@@ -1,4 +1,4 @@
-# Crusader-Kings-2-Mod-Bloodline-Charlemagne-The-Great
+# Bloodline-Charlemagne-The-Great
 
 ### How to Install 
 https://ck2.paradoxwikis.com/Mods
