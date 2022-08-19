@@ -1,6 +1,5 @@
 # Bloodline-Charlemagne-The-Great
 ### How to Install 
-https://ck2.paradoxwikis.com/Mods
 #
 Folders : Bloodline_Charlemagne & Bloodline_Charlemagne.mod
 
@@ -21,6 +20,8 @@ just find the documents folder on your computer and it will be easy find.
 # If you can find mod folder just create new in Crusader Kings 2.
 
 ![Folders4](https://user-images.githubusercontent.com/111537152/185588254-0d0d6838-bb6f-43da-bb66-6a237650fdce.png)
+
+Complex Tutorial How To Install https://ck2.paradoxwikis.com/Mods
 #
 # How to find that bloodline in game?
 #
