@@ -16,3 +16,5 @@ How to find that bloodline in game?
 ![BLD_2](https://user-images.githubusercontent.com/111537152/185585039-9490494b-cc6e-4055-b66e-f1f5884f0496.png)
 ![BLD_3](https://user-images.githubusercontent.com/111537152/185585052-5f0f831c-b53b-496c-b91c-29564de4fc6c.png)
 #
+# For this mod you dont need any DLC's - but if you want to play as the character Charlemagne, I recommend you own the Charlemagne DLC
+DLC - https://store.steampowered.com/app/292982/Expansion__Crusader_Kings_II_Charlemagne/
