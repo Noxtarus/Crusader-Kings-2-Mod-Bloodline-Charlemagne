@@ -1,0 +1,21 @@
+decisions = {
+    add_to_bloodline = {
+	    AI = no
+		is_high_prio = yes
+		
+	    potential = {
+	        NOT = { has_global_flag = taken_bloodline_dec }
+	    }
+		
+	    allow = {
+		
+        }
+
+	    effect = {
+	        set_global_flag = taken_bloodline_dec
+            create_bloodline = {
+		        type = charlemagne_bloodline
+			}
+		}
+	}
+}
