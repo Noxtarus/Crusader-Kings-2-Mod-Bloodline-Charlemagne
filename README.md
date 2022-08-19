@@ -21,8 +21,8 @@ just find the documents folder on your computer and it will be easy find.
 # If you can find mod folder just create new in Crusader Kings 2.
 
 ![Folders4](https://user-images.githubusercontent.com/111537152/185588254-0d0d6838-bb6f-43da-bb66-6a237650fdce.png)
-
-
+#
+#
 How to find that bloodline in game?
 #
 ![BLD_1](https://user-images.githubusercontent.com/111537152/185585025-862aa77a-4978-4f6b-a1ca-a45a285df184.png)
