@@ -1,6 +1,6 @@
 # Bloodline-Charlemagne-The-Great
 ### How to Install 
---> SOON ON STEAM ! 30.8.2022 <--
+--> SOON ON STEAM ! <--
 #
 Folders : Bloodline_Charlemagne & Bloodline_Charlemagne.mod
 
